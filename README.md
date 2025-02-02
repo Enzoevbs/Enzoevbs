@@ -11,7 +11,7 @@
 </h2>
 
 
-Eu me chamo Enzo Vinicius , tenho 24 anos e moro em Guarulhos/São Paulo.Estou cursando ensino superior em Gestão de Tecnologia da Informação.Atualmente, estou procurando por um estágio para aperfeiçoar meus conhecimentos e coloca-los em prática.Sou apaixonado por tecnologia( demorei um pouco para achar o meu perfil profissional, e finalmente encontrei,embora o ensino seja voltado para gerenciamento de t.i, vamos ver como será o portfólio em conjunto com estratégias de t.i, desde já muito obrigado.
+Eu me chamo Enzo Vinicius , tenho 24 anos e moro em Guarulhos/São Paulo.Estou cursando ensino superior em Gestão de Tecnologia da Informação.Atualmente, estou procurando por um estágio para aperfeiçoar meus conhecimentos e coloca-los em prática.Sou apaixonado por tecnologia, demorei um pouco para achar o meu perfil profissional, e finalmente encontrei,embora o ensino seja voltado para gerenciamento de t.i, vamos ver como será o portfólio em conjunto com estratégias de t.i, desde já muito obrigado.
 
 
 <p> 
